@@ -1,2 +1,2 @@
-# WebSite1
+# WebSite
 # Omenacraft host
